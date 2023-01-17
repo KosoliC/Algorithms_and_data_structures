@@ -17,6 +17,6 @@ Project is created with:
 ## Setup
 To run this project, set up a new Python 3.9+ environment and install all dependencies with:
 
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 
